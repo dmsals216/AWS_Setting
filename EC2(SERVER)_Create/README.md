@@ -48,6 +48,6 @@
 
 14. 위의 그림이 나오면 ec2-user를 입력하고 접속!!
 
-* ![11.png](https://github.com/dmsals216/AWS_Setting/tree/master/EC2(SERVER)_Create/img/11.png)
+* ![11.png](./img/11.png)
 
 15. 위의 그림이 나오면 접속 성공!! 서버가 생성된 것을 확인 할 수 있다. 그리고 yum이 깔려있는 서버라면 sudo yum update를 한번 해주자!!
